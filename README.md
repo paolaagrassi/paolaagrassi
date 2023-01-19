@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hi, I'm Paola!
 
-<!--
-**paolaagrassi/paolaagrassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Software Developer Intern
+ - Student of System Analysis and Development       
+          
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paolaagrassi&layout=compact&hide=c%+%+,cMake)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<img align="center" alt="lola-flt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img align="center" alt="lola-dart" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
+<div/>
+  
