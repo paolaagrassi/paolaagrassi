@@ -2,9 +2,9 @@
 
 ### Let me introduce...
  - Software Developer, focused in backend Python :snake: 
- - :mortar_board: Undergraduate in Systems Anlysis and Development
+ - :mortar_board: Graduate in Systems Anlysis and Development
  - :robot: Machine Learning student
- - :round_pushpin: Florianópolis, BR
+ - :round_pushpin: BR
 
 <br/>
 
