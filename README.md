@@ -3,7 +3,6 @@
 ### Let me introduce...
  - Software Developer, focused in backend Python :snake: 
  - :mortar_board: Graduate in Systems Anlysis and Development
- - :robot: Machine Learning student
  - :round_pushpin: BR
 
 <br/>
